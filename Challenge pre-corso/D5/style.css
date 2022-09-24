@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+body{display: flex;
+margin: 0;
+height: 100vh;
+font-family: 'Roboto', sans-serif;}
+
+#Main {width: 100%;}
+
+#Content{height: 100%;}
+
+#Sidebar {display: flex;
+flex-direction: column;
+align-items: center;}
+
+
+.Sidebar-icon {padding: 2.5em;
+display: flex;
+flex-direction: column;
+align-items: center;
+cursor: pointer;}
+
+.Sidebar-icon p {margin: 0;}
+
+.Sidebar-icon ion-icon {font-size: 1.5em;}
+
+#Topbar {height: 8vh;
+display: flex;
+justify-content: space-between;
+align-items: center;}
+
+#logo {height: 50%;}
+
+#Searchbar {display: flex;
+height: 50%;}
+
+#Topbar-icon {display: flex;
+font-size: 2em;
+padding: 0 0.3em;
+align-items: center;}
+
+.top-icon {font-size: 1em;
+padding: 0 0.5em;}
+
+#mic-icon ion-icon {font-size: 1.7em;}
+
+#mic-icon {margin: 0 0.5em;}
+
+#Button {padding: 0 0.6em;
+font-size: 1.3em;
+display: flex;
+align-items: center;}
+
+.Thumbnail {height: 20%;
+width: 20%;
+margin: 0;}
+
+.Thumbnail img {height: 265px;
+width: 455px;
+padding: 4em;
+padding-bottom: 0;}
+
+.Logo {display: flex;
+padding: 0 4em;
+padding-right: 1em;
+height: 72px;}
+
+
+.Bottom-part {display: flex;}
+
+#Content p {margin-top: -20px;}
+
+#Content {display: flex;
+align-items: baseline;
+flex-wrap: wrap;}
+
+
+
+
+
+

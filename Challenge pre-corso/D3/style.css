@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+ .main-section {
+    padding: 20px;
+ }
+
+h1 {
+   
+   font-size: 64px;
+   font-weight: 400;
+   margin-bottom: 0;
+   font-family: 'Prata', serif;
+  }
+
+h3 {
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    font-family: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+ }
+
+.image-container {
+    height: 500px;
+    background-image: url(https://www.gotokyo.org/it/plan/tokyo-outline/images/main.jpg);
+
+}
+ 
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+}
+
+a {
+    font-weight: 600;
+    font-style: oblique;
+}
+
+h6 {
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color:white;
+    border-radius: 6px;
+    background: linear-gradient(120deg, #770781, #66CDAA);
+}
+ 
+li {
+    list-style-type: none;
+    padding-inline-start: 0px;
+    padding-top: 6px;
+    padding-bottom: 6px; 
+    padding-left: 22px;
+    border-bottom: 1px, #dfdfdf;
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: #2970ce
+}
+
+footer {
+    background-color: black;
+    padding: 16px;
+    text-align: center;
+}
+
+.white-text {
+    color: white;
+}
+
+a:visited {
+    color: #770781;
+}
+

@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {font-family: 'Roboto', sans-serif;}
+
+#Titolo {display: flex;
+justify-content: center;
+background: #00ced16b;}
+
+#Form {height: 100vh;
+padding: 25px;
+display: flex;
+justify-content: center;
+background: #0052e51f;}
+
+#Nascita {display: flex;
+margin: 20px;
+align-items: center;}
+
+.Gusti {display: flex;
+margin: 20px;
+align-items: center;}
+
+
+
+.Datipersonali {margin: 20px;}
+
+#Titologusti {margin: 20px;}
+
+#Invio {margin: 20px;}
+
+
+#Bottoneinvio {margin: 20px;
+display: flex;
+align-items: center;}
+
+#Bottoneinvio input {align-self: normal;}
+
